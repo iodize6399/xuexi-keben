@@ -1,10 +1,17 @@
 {
   "$schema": "./node_modules/wrangler/config-schema.json",
-  "name": "chinese-textbook-mcp",
+  "name": "xuexi-keben",
   "main": "src/index.ts",
   "compatibility_date": "2026-06-11",
   "compatibility_flags": ["nodejs_compat"],
   "workers_dev": true,
+  "preview_urls": false,
+  "routes": [
+    {
+      "pattern": "keben.555420.xyz",
+      "custom_domain": true
+    }
+  ],
   "observability": {
     "enabled": true
   }

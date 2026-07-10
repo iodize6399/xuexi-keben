@@ -13,7 +13,7 @@ A free, read-only, model-provider-independent MCP server for the revised *Elemen
 Share this MCP URL:
 
 ```text
-https://chinese-textbook-mcp.similar-quarter.workers.dev/mcp
+https://keben.555420.xyz/mcp
 ```
 
 1. Open **MCP**, **Apps**, or **Connectors** in your AI application.
@@ -43,7 +43,7 @@ In Claude web or Desktop:
 In Claude Code, an authorized agent can run:
 
 ```bash
-claude mcp add --transport http --scope user chinese-textbook https://chinese-textbook-mcp.similar-quarter.workers.dev/mcp
+claude mcp add --transport http --scope user chinese-textbook https://keben.555420.xyz/mcp
 ```
 
 ### ChatGPT

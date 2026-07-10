@@ -8,11 +8,11 @@
     "url": "https://github.com/iodize6399/xuexi-keben",
     "source": "github"
   },
-  "websiteUrl": "https://chinese-textbook-mcp.similar-quarter.workers.dev",
+  "websiteUrl": "https://keben.555420.xyz",
   "remotes": [
     {
       "type": "streamable-http",
-      "url": "https://chinese-textbook-mcp.similar-quarter.workers.dev/mcp"
+      "url": "https://keben.555420.xyz/mcp"
     }
   ]
 }
