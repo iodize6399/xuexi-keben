@@ -37,8 +37,8 @@ Run the regression validator before committing changes:
 python3 scripts/validate_corpus.py
 ```
 
-## Public-repository note
+## Remote tutor access
 
-The local `.env`, source PDFs, and raw OCR-provider responses are intentionally excluded by the repository `.gitignore`.
+The repository root contains a stateless, model-provider-independent MCP server that exposes this corpus for lesson study, search, and grounded quizzes. Its deployment bundle strips local illustration links from tool results while preserving the canonical lesson files here.
 
-This corpus is a near-complete transcription and includes extracted illustrations. Confirm that you have the necessary rights or permission before publishing it. A software license for repository code does not automatically grant rights to the textbook content.
+The local `.env`, source PDFs, and raw OCR-provider responses remain excluded by `.gitignore`.
