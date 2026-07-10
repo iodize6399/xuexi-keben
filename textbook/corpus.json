@@ -1,0 +1,1912 @@
+{
+  "schema_version": 2,
+  "book_id": "ecr-revised",
+  "book": "Elementary Chinese Readers / 基础汉语课本 (Revised Edition)",
+  "path_base": "workspace_root",
+  "review_status": "ocr_unverified",
+  "pdf_page_numbering": "1-based physical PDF pages; printed pagination is stored separately",
+  "volumes": [
+    {
+      "volume": 1,
+      "source_pdf_id": "ecr-revised-v01",
+      "ocr_model": "mistral-ocr-latest",
+      "source_book_pages": 273,
+      "lesson_range": [
+        1,
+        22
+      ]
+    },
+    {
+      "volume": 2,
+      "source_pdf_id": "ecr-revised-v02",
+      "ocr_model": "mistral-ocr-latest",
+      "source_book_pages": 387,
+      "lesson_range": [
+        23,
+        44
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "document_id": "ecr-revised-v01-l01",
+      "document_type": "lesson",
+      "lesson_number": 1,
+      "volume": 1,
+      "title_zh": "第一课",
+      "title_en": "Lesson 1",
+      "text_titles_zh": [],
+      "focus_sentences": [],
+      "path": "textbook/lessons/lesson-01.md",
+      "sections": [
+        "conversation",
+        "vocabulary_characters",
+        "finals",
+        "initials",
+        "tones",
+        "notes",
+        "exercises",
+        "character_table"
+      ],
+      "source_pdf_pages": [
+        24,
+        36
+      ],
+      "source_printed_pages": [
+        1,
+        13
+      ],
+      "average_ocr_confidence": 0.9916,
+      "review_status": "ocr_unverified",
+      "review_flags": [
+        "character_table_ocr_unverified",
+        "early_pinyin_ocr_unverified",
+        "phonetics_ocr_unverified",
+        "requires_visual_context"
+      ],
+      "tables_inlined": 8
+    },
+    {
+      "document_id": "ecr-revised-v01-l02",
+      "document_type": "lesson",
+      "lesson_number": 2,
+      "volume": 1,
+      "title_zh": "第二课",
+      "title_en": "Lesson 2",
+      "text_titles_zh": [],
+      "focus_sentences": [],
+      "path": "textbook/lessons/lesson-02.md",
+      "sections": [
+        "conversation",
+        "vocabulary_characters",
+        "finals",
+        "notes",
+        "exercises",
+        "character_table"
+      ],
+      "source_pdf_pages": [
+        37,
+        42
+      ],
+      "source_printed_pages": [
+        14,
+        19
+      ],
+      "average_ocr_confidence": 0.9867,
+      "review_status": "ocr_unverified",
+      "review_flags": [
+        "character_table_ocr_unverified",
+        "early_pinyin_ocr_unverified",
+        "phonetics_ocr_unverified",
+        "requires_visual_context"
+      ],
+      "tables_inlined": 8
+    },
+    {
+      "document_id": "ecr-revised-v01-l03",
+      "document_type": "lesson",
+      "lesson_number": 3,
+      "volume": 1,
+      "title_zh": "第三课",
+      "title_en": "Lesson 3",
+      "text_titles_zh": [],
+      "focus_sentences": [],
+      "path": "textbook/lessons/lesson-03.md",
+      "sections": [
+        "conversation",
+        "vocabulary_characters",
+        "finals",
+        "initials",
+        "notes",
+        "exercises",
+        "character_table"
+      ],
+      "source_pdf_pages": [
+        43,
+        49
+      ],
+      "source_printed_pages": [
+        20,
+        26
+      ],
+      "average_ocr_confidence": 0.9836,
+      "review_status": "ocr_unverified",
+      "review_flags": [
+        "character_table_ocr_unverified",
+        "early_pinyin_ocr_unverified",
+        "phonetics_ocr_unverified",
+        "requires_visual_context"
+      ],
+      "tables_inlined": 4
+    },
+    {
+      "document_id": "ecr-revised-v01-l04",
+      "document_type": "lesson",
+      "lesson_number": 4,
+      "volume": 1,
+      "title_zh": "第四课",
+      "title_en": "Lesson 4",
+      "text_titles_zh": [],
+      "focus_sentences": [],
+      "path": "textbook/lessons/lesson-04.md",
+      "sections": [
+        "conversation",
+        "vocabulary_characters",
+        "finals",
+        "notes",
+        "exercises",
+        "character_table"
+      ],
+      "source_pdf_pages": [
+        50,
+        54
+      ],
+      "source_printed_pages": [
+        27,
+        31
+      ],
+      "average_ocr_confidence": 0.9805,
+      "review_status": "ocr_unverified",
+      "review_flags": [
+        "character_table_ocr_unverified",
+        "early_pinyin_ocr_unverified",
+        "phonetics_ocr_unverified",
+        "requires_visual_context"
+      ],
+      "tables_inlined": 5
+    },
+    {
+      "document_id": "ecr-revised-v01-l05",
+      "document_type": "lesson",
+      "lesson_number": 5,
+      "volume": 1,
+      "title_zh": "第五课",
+      "title_en": "Lesson 5",
+      "text_titles_zh": [],
+      "focus_sentences": [],
+      "path": "textbook/lessons/lesson-05.md",
+      "sections": [
+        "conversation",
+        "vocabulary_characters",
+        "finals",
+        "initials",
+        "notes",
+        "exercises",
+        "character_table"
+      ],
+      "source_pdf_pages": [
+        55,
+        61
+      ],
+      "source_printed_pages": [
+        32,
+        38
+      ],
+      "average_ocr_confidence": 0.9808,
+      "review_status": "ocr_unverified",
+      "review_flags": [
+        "character_table_ocr_unverified",
+        "early_pinyin_ocr_unverified",
+        "phonetics_ocr_unverified",
+        "requires_visual_context"
+      ],
+      "tables_inlined": 3
+    },
+    {
+      "document_id": "ecr-revised-v01-l06",
+      "document_type": "lesson",
+      "lesson_number": 6,
+      "volume": 1,
+      "title_zh": "第六课",
+      "title_en": "Lesson 6",
+      "text_titles_zh": [],
+      "focus_sentences": [],
+      "path": "textbook/lessons/lesson-06.md",
+      "sections": [
+        "conversation",
+        "vocabulary_characters",
+        "finals",
+        "initials",
+        "notes",
+        "exercises",
+        "character_table"
+      ],
+      "source_pdf_pages": [
+        62,
+        69
+      ],
+      "source_printed_pages": [
+        39,
+        46
+      ],
+      "average_ocr_confidence": 0.9696,
+      "review_status": "ocr_unverified",
+      "review_flags": [
+        "character_table_ocr_unverified",
+        "early_pinyin_ocr_unverified",
+        "low_page_confidence",
+        "phonetics_ocr_unverified",
+        "requires_visual_context"
+      ],
+      "tables_inlined": 6
+    },
+    {
+      "document_id": "ecr-revised-v01-l07",
+      "document_type": "lesson",
+      "lesson_number": 7,
+      "volume": 1,
+      "title_zh": "第七课",
+      "title_en": "Lesson 7",
+      "text_titles_zh": [],
+      "focus_sentences": [],
+      "path": "textbook/lessons/lesson-07.md",
+      "sections": [
+        "conversation",
+        "vocabulary_characters",
+        "phonetics_summary",
+        "notes",
+        "exercises",
+        "character_table"
+      ],
+      "source_pdf_pages": [
+        70,
+        76
+      ],
+      "source_printed_pages": [
+        47,
+        53
+      ],
+      "average_ocr_confidence": 0.9848,
+      "review_status": "ocr_unverified",
+      "review_flags": [
+        "character_table_ocr_unverified",
+        "early_pinyin_ocr_unverified",
+        "phonetics_ocr_unverified",
+        "requires_visual_context"
+      ],
+      "tables_inlined": 4
+    },
+    {
+      "document_id": "ecr-revised-v01-l08",
+      "document_type": "lesson",
+      "lesson_number": 8,
+      "volume": 1,
+      "title_zh": "第八课",
+      "title_en": "Lesson 8",
+      "text_titles_zh": [],
+      "focus_sentences": [],
+      "path": "textbook/lessons/lesson-08.md",
+      "sections": [
+        "conversation",
+        "vocabulary_characters",
+        "exercises",
+        "character_table",
+        "classroom_expressions"
+      ],
+      "source_pdf_pages": [
+        77,
+        84
+      ],
+      "source_printed_pages": [
+        54,
+        61
+      ],
+      "average_ocr_confidence": 0.9766,
+      "review_status": "ocr_unverified",
+      "review_flags": [
+        "character_table_ocr_unverified",
+        "early_pinyin_ocr_unverified",
+        "phonetics_ocr_unverified",
+        "requires_visual_context"
+      ],
+      "tables_inlined": 5
+    },
+    {
+      "document_id": "ecr-revised-v01-l09",
+      "document_type": "lesson",
+      "lesson_number": 9,
+      "volume": 1,
+      "title_zh": "第九课",
+      "title_en": "Lesson 9",
+      "text_titles_zh": [],
+      "focus_sentences": [
+        "我是学生。",
+        "他不是学生。",
+        "你是学生吗？"
+      ],
+      "path": "textbook/lessons/lesson-09.md",
+      "sections": [
+        "overview",
+        "substitution_drills",
+        "text",
+        "vocabulary",
+        "additional_vocabulary",
+        "notes",
+        "grammar",
+        "exercises",
+        "character_table"
+      ],
+      "source_pdf_pages": [
+        85,
+        96
+      ],
+      "source_printed_pages": [
+        62,
+        73
+      ],
+      "average_ocr_confidence": 0.9845,
+      "review_status": "ocr_unverified",
+      "review_flags": [
+        "character_table_ocr_unverified",
+        "requires_visual_context"
+      ],
+      "tables_inlined": 3
+    },
+    {
+      "document_id": "ecr-revised-v01-l10",
+      "document_type": "lesson",
+      "lesson_number": 10,
+      "volume": 1,
+      "title_zh": "第十课",
+      "title_en": "Lesson 10",
+      "text_titles_zh": [],
+      "focus_sentences": [
+        "这是中文画报。",
+        "这是我的书。",
+        "他是谁？"
+      ],
+      "path": "textbook/lessons/lesson-10.md",
+      "sections": [
+        "overview",
+        "substitution_drills",
+        "text",
+        "vocabulary",
+        "additional_vocabulary",
+        "notes",
+        "grammar",
+        "exercises",
+        "character_table"
+      ],
+      "source_pdf_pages": [
+        97,
+        106
+      ],
+      "source_printed_pages": [
+        74,
+        83
+      ],
+      "average_ocr_confidence": 0.9893,
+      "review_status": "ocr_unverified",
+      "review_flags": [
+        "character_table_ocr_unverified",
+        "requires_visual_context"
+      ],
+      "tables_inlined": 3
+    },
+    {
+      "document_id": "ecr-revised-v01-l11",
+      "document_type": "lesson",
+      "lesson_number": 11,
+      "volume": 1,
+      "title_zh": "第十一课",
+      "title_en": "Lesson 11",
+      "text_titles_zh": [],
+      "focus_sentences": [
+        "你有几本画报？",
+        "我有两本画报。",
+        "他没有英文杂志。"
+      ],
+      "path": "textbook/lessons/lesson-11.md",
+      "sections": [
+        "overview",
+        "substitution_drills",
+        "text",
+        "vocabulary",
+        "additional_vocabulary",
+        "notes",
+        "grammar",
+        "exercises",
+        "character_table"
+      ],
+      "source_pdf_pages": [
+        107,
+        119
+      ],
+      "source_printed_pages": [
+        84,
+        96
+      ],
+      "average_ocr_confidence": 0.9856,
+      "review_status": "ocr_unverified",
+      "review_flags": [
+        "character_table_ocr_unverified",
+        "requires_visual_context"
+      ],
+      "tables_inlined": 3
+    },
+    {
+      "document_id": "ecr-revised-v01-l12",
+      "document_type": "lesson",
+      "lesson_number": 12,
+      "volume": 1,
+      "title_zh": "第十二课",
+      "title_en": "Lesson 12",
+      "text_titles_zh": [],
+      "focus_sentences": [
+        "我们的学校很大。 这个生词难不难？ 这个生词不难。"
+      ],
+      "path": "textbook/lessons/lesson-12.md",
+      "sections": [
+        "overview",
+        "substitution_drills",
+        "text",
+        "vocabulary",
+        "additional_vocabulary",
+        "notes",
+        "grammar",
+        "exercises",
+        "character_table"
+      ],
+      "source_pdf_pages": [
+        120,
+        131
+      ],
+      "source_printed_pages": [
+        97,
+        108
+      ],
+      "average_ocr_confidence": 0.9907,
+      "review_status": "ocr_unverified",
+      "review_flags": [
+        "character_table_ocr_unverified",
+        "requires_visual_context"
+      ],
+      "tables_inlined": 4
+    },
+    {
+      "document_id": "ecr-revised-v01-l13",
+      "document_type": "lesson",
+      "lesson_number": 13,
+      "volume": 1,
+      "title_zh": "第十三课",
+      "title_en": "Lesson 13",
+      "text_titles_zh": [],
+      "focus_sentences": [
+        "我们学习。 他看中文报。 他不看英文画报。"
+      ],
+      "path": "textbook/lessons/lesson-13.md",
+      "sections": [
+        "overview",
+        "substitution_drills",
+        "text",
+        "vocabulary",
+        "additional_vocabulary",
+        "notes",
+        "grammar",
+        "exercises",
+        "character_table"
+      ],
+      "source_pdf_pages": [
+        132,
+        142
+      ],
+      "source_printed_pages": [
+        109,
+        119
+      ],
+      "average_ocr_confidence": 0.9884,
+      "review_status": "ocr_unverified",
+      "review_flags": [
+        "character_table_ocr_unverified",
+        "requires_visual_context"
+      ],
+      "tables_inlined": 2
+    },
+    {
+      "document_id": "ecr-revised-v01-l14",
+      "document_type": "lesson",
+      "lesson_number": 14,
+      "volume": 1,
+      "title_zh": "第十四课",
+      "title_en": "Lesson 14",
+      "text_titles_zh": [],
+      "focus_sentences": [
+        "我常看中文画报。",
+        "我们是学生，他们也都是学生。",
+        "我们一起去教室。"
+      ],
+      "path": "textbook/lessons/lesson-14.md",
+      "sections": [
+        "overview",
+        "substitution_drills",
+        "text",
+        "vocabulary",
+        "additional_vocabulary",
+        "notes",
+        "grammar",
+        "exercises",
+        "character_table"
+      ],
+      "source_pdf_pages": [
+        143,
+        154
+      ],
+      "source_printed_pages": [
+        120,
+        131
+      ],
+      "average_ocr_confidence": 0.9751,
+      "review_status": "ocr_unverified",
+      "review_flags": [
+        "character_table_ocr_unverified",
+        "low_page_confidence",
+        "requires_visual_context"
+      ],
+      "tables_inlined": 3
+    },
+    {
+      "document_id": "ecr-revised-v01-l15",
+      "document_type": "lesson",
+      "lesson_number": 15,
+      "volume": 1,
+      "title_zh": "第十五课",
+      "title_en": "Lesson 15",
+      "text_titles_zh": [],
+      "focus_sentences": [
+        "这支钢笔是他的。 你看电视还是看电影？"
+      ],
+      "path": "textbook/lessons/lesson-15.md",
+      "sections": [
+        "overview",
+        "substitution_drills",
+        "text",
+        "vocabulary",
+        "additional_vocabulary",
+        "notes",
+        "grammar",
+        "exercises",
+        "character_table"
+      ],
+      "source_pdf_pages": [
+        155,
+        165
+      ],
+      "source_printed_pages": [
+        132,
+        142
+      ],
+      "average_ocr_confidence": 0.9863,
+      "review_status": "ocr_unverified",
+      "review_flags": [
+        "character_table_ocr_unverified",
+        "requires_visual_context"
+      ],
+      "tables_inlined": 4
+    },
+    {
+      "document_id": "ecr-revised-v01-l16",
+      "document_type": "lesson",
+      "lesson_number": 16,
+      "volume": 1,
+      "title_zh": "第十六课",
+      "title_en": "Lesson 16",
+      "text_titles_zh": [],
+      "focus_sentences": [
+        "你们班有多少（个）同学？",
+        "我们班有三十二个同学。",
+        "这件毛衣二十四块零九分（钱）。"
+      ],
+      "path": "textbook/lessons/lesson-16.md",
+      "sections": [
+        "overview",
+        "substitution_drills",
+        "text",
+        "vocabulary",
+        "additional_vocabulary",
+        "notes",
+        "grammar",
+        "exercises",
+        "character_table"
+      ],
+      "source_pdf_pages": [
+        167,
+        180
+      ],
+      "source_printed_pages": [
+        144,
+        157
+      ],
+      "average_ocr_confidence": 0.9872,
+      "review_status": "ocr_unverified",
+      "review_flags": [
+        "character_table_ocr_unverified",
+        "requires_visual_context"
+      ],
+      "tables_inlined": 5
+    },
+    {
+      "document_id": "ecr-revised-v01-l17",
+      "document_type": "lesson",
+      "lesson_number": 17,
+      "volume": 1,
+      "title_zh": "第十七课",
+      "title_en": "Lesson 17",
+      "text_titles_zh": [],
+      "focus_sentences": [
+        "现在九点半。 我们上午八点半上课。 他身体很好。"
+      ],
+      "path": "textbook/lessons/lesson-17.md",
+      "sections": [
+        "overview",
+        "substitution_drills",
+        "text",
+        "vocabulary",
+        "additional_vocabulary",
+        "grammar",
+        "exercises",
+        "character_table"
+      ],
+      "source_pdf_pages": [
+        181,
+        190
+      ],
+      "source_printed_pages": [
+        158,
+        167
+      ],
+      "average_ocr_confidence": 0.9873,
+      "review_status": "ocr_unverified",
+      "review_flags": [
+        "character_table_ocr_unverified",
+        "requires_visual_context"
+      ],
+      "tables_inlined": 4
+    },
+    {
+      "document_id": "ecr-revised-v01-l18",
+      "document_type": "lesson",
+      "lesson_number": 18,
+      "volume": 1,
+      "title_zh": "第十八课",
+      "title_en": "Lesson 18",
+      "text_titles_zh": [],
+      "focus_sentences": [
+        "今天星期一。",
+        "张老师教我们汉语。"
+      ],
+      "path": "textbook/lessons/lesson-18.md",
+      "sections": [
+        "overview",
+        "substitution_drills",
+        "text",
+        "vocabulary",
+        "additional_vocabulary",
+        "notes",
+        "grammar",
+        "exercises",
+        "character_table"
+      ],
+      "source_pdf_pages": [
+        192,
+        203
+      ],
+      "source_printed_pages": [
+        169,
+        180
+      ],
+      "average_ocr_confidence": 0.9891,
+      "review_status": "ocr_unverified",
+      "review_flags": [
+        "character_table_ocr_unverified",
+        "requires_visual_context"
+      ],
+      "tables_inlined": 7
+    },
+    {
+      "document_id": "ecr-revised-v01-l19",
+      "document_type": "lesson",
+      "lesson_number": 19,
+      "volume": 1,
+      "title_zh": "第十九课",
+      "title_en": "Lesson 19",
+      "text_titles_zh": [],
+      "focus_sentences": [
+        "星期日我在家休息。 我从朋友那儿回学校。"
+      ],
+      "path": "textbook/lessons/lesson-19.md",
+      "sections": [
+        "overview",
+        "substitution_drills",
+        "text",
+        "vocabulary",
+        "additional_vocabulary",
+        "grammar",
+        "exercises",
+        "character_table"
+      ],
+      "source_pdf_pages": [
+        204,
+        215
+      ],
+      "source_printed_pages": [
+        181,
+        192
+      ],
+      "average_ocr_confidence": 0.9855,
+      "review_status": "ocr_unverified",
+      "review_flags": [
+        "character_table_ocr_unverified",
+        "requires_visual_context"
+      ],
+      "tables_inlined": 5
+    },
+    {
+      "document_id": "ecr-revised-v01-l20",
+      "document_type": "lesson",
+      "lesson_number": 20,
+      "volume": 1,
+      "title_zh": "第二十课",
+      "title_en": "Lesson 20",
+      "text_titles_zh": [],
+      "focus_sentences": [
+        "他起得很早。 他写汉字写得不快。 你课文念得熟不熟？"
+      ],
+      "path": "textbook/lessons/lesson-20.md",
+      "sections": [
+        "overview",
+        "substitution_drills",
+        "text",
+        "vocabulary",
+        "additional_vocabulary",
+        "grammar",
+        "exercises",
+        "character_table"
+      ],
+      "source_pdf_pages": [
+        216,
+        228
+      ],
+      "source_printed_pages": [
+        193,
+        205
+      ],
+      "average_ocr_confidence": 0.9752,
+      "review_status": "ocr_unverified",
+      "review_flags": [
+        "character_table_ocr_unverified",
+        "low_page_confidence",
+        "requires_visual_context"
+      ],
+      "tables_inlined": 3
+    },
+    {
+      "document_id": "ecr-revised-v01-l21",
+      "document_type": "lesson",
+      "lesson_number": 21,
+      "volume": 1,
+      "title_zh": "第二十一课 · 我们的学校",
+      "title_en": "Lesson 21",
+      "text_titles_zh": [
+        "我们的学校"
+      ],
+      "focus_sentences": [
+        "礼堂在图书馆西边。 学校前边是工厂。 桌子上有一些书。"
+      ],
+      "path": "textbook/lessons/lesson-21.md",
+      "sections": [
+        "overview",
+        "substitution_drills",
+        "text",
+        "vocabulary",
+        "additional_vocabulary",
+        "notes",
+        "grammar",
+        "exercises",
+        "character_table"
+      ],
+      "source_pdf_pages": [
+        229,
+        241
+      ],
+      "source_printed_pages": [
+        206,
+        218
+      ],
+      "average_ocr_confidence": 0.9871,
+      "review_status": "ocr_unverified",
+      "review_flags": [
+        "character_table_ocr_unverified",
+        "requires_visual_context"
+      ],
+      "tables_inlined": 5
+    },
+    {
+      "document_id": "ecr-revised-v01-l22",
+      "document_type": "lesson",
+      "lesson_number": 22,
+      "volume": 1,
+      "title_zh": "第二十二课 · 借球",
+      "title_en": "Lesson 22",
+      "text_titles_zh": [
+        "借球"
+      ],
+      "focus_sentences": [
+        "我要借小说。",
+        "我不想进城。",
+        "你会不会说汉语？"
+      ],
+      "path": "textbook/lessons/lesson-22.md",
+      "sections": [
+        "overview",
+        "substitution_drills",
+        "text",
+        "vocabulary",
+        "additional_vocabulary",
+        "notes",
+        "grammar",
+        "exercises",
+        "character_table"
+      ],
+      "source_pdf_pages": [
+        242,
+        255
+      ],
+      "source_printed_pages": [
+        219,
+        232
+      ],
+      "average_ocr_confidence": 0.9785,
+      "review_status": "ocr_unverified",
+      "review_flags": [
+        "character_table_ocr_unverified",
+        "low_page_confidence",
+        "requires_visual_context"
+      ],
+      "tables_inlined": 3
+    },
+    {
+      "document_id": "ecr-revised-v02-l23",
+      "document_type": "lesson",
+      "lesson_number": 23,
+      "volume": 2,
+      "title_zh": "第二十三课 · 哈利病了",
+      "title_en": "Lesson 23",
+      "text_titles_zh": [
+        "哈利病了"
+      ],
+      "focus_sentences": [
+        "昨天我进城了。",
+        "哈利没（有）来。"
+      ],
+      "path": "textbook/lessons/lesson-23.md",
+      "sections": [
+        "overview",
+        "substitution_drills",
+        "text",
+        "vocabulary",
+        "additional_vocabulary",
+        "notes",
+        "grammar",
+        "exercises",
+        "character_table"
+      ],
+      "source_pdf_pages": [
+        11,
+        22
+      ],
+      "source_printed_pages": [
+        1,
+        12
+      ],
+      "average_ocr_confidence": 0.9916,
+      "review_status": "ocr_unverified",
+      "review_flags": [
+        "character_table_ocr_unverified",
+        "requires_visual_context"
+      ],
+      "tables_inlined": 5
+    },
+    {
+      "document_id": "ecr-revised-v02-l24",
+      "document_type": "lesson",
+      "lesson_number": 24,
+      "volume": 2,
+      "title_zh": "第二十四课 · 看展览",
+      "title_en": "Lesson 24",
+      "text_titles_zh": [
+        "看展览"
+      ],
+      "focus_sentences": [
+        "我买了三本书。 我们吃了饭就进城。 我们两点出发，三点才到。"
+      ],
+      "path": "textbook/lessons/lesson-24.md",
+      "sections": [
+        "overview",
+        "substitution_drills",
+        "text",
+        "vocabulary",
+        "additional_vocabulary",
+        "grammar",
+        "exercises",
+        "character_table"
+      ],
+      "source_pdf_pages": [
+        23,
+        35
+      ],
+      "source_printed_pages": [
+        13,
+        25
+      ],
+      "average_ocr_confidence": 0.9895,
+      "review_status": "ocr_unverified",
+      "review_flags": [
+        "character_table_ocr_unverified",
+        "requires_visual_context"
+      ],
+      "tables_inlined": 4
+    },
+    {
+      "document_id": "ecr-revised-v02-l25",
+      "document_type": "lesson",
+      "lesson_number": 25,
+      "volume": 2,
+      "title_zh": "第二十五课 · 去旅行",
+      "title_en": "Lesson 25",
+      "text_titles_zh": [
+        "去旅行"
+      ],
+      "focus_sentences": [
+        "他去上海旅行。",
+        "每个学生都有两个本子。"
+      ],
+      "path": "textbook/lessons/lesson-25.md",
+      "sections": [
+        "overview",
+        "substitution_drills",
+        "text",
+        "vocabulary",
+        "additional_vocabulary",
+        "notes",
+        "grammar",
+        "exercises",
+        "character_table"
+      ],
+      "source_pdf_pages": [
+        36,
+        48
+      ],
+      "source_printed_pages": [
+        26,
+        38
+      ],
+      "average_ocr_confidence": 0.9912,
+      "review_status": "ocr_unverified",
+      "review_flags": [
+        "character_table_ocr_unverified",
+        "requires_visual_context"
+      ],
+      "tables_inlined": 5
+    },
+    {
+      "document_id": "ecr-revised-v02-l26",
+      "document_type": "lesson",
+      "lesson_number": 26,
+      "volume": 2,
+      "title_zh": "第二十六课 · 去火车站",
+      "title_en": "Lesson 26",
+      "text_titles_zh": [
+        "去火车站"
+      ],
+      "focus_sentences": [
+        "商店里买东西的人很多。 他们从七月十五号起放假。 我们从八点半到十二点半上课。"
+      ],
+      "path": "textbook/lessons/lesson-26.md",
+      "sections": [
+        "overview",
+        "substitution_drills",
+        "text",
+        "vocabulary",
+        "additional_vocabulary",
+        "notes",
+        "grammar",
+        "exercises",
+        "character_table"
+      ],
+      "source_pdf_pages": [
+        49,
+        61
+      ],
+      "source_printed_pages": [
+        39,
+        51
+      ],
+      "average_ocr_confidence": 0.9902,
+      "review_status": "ocr_unverified",
+      "review_flags": [
+        "character_table_ocr_unverified",
+        "requires_visual_context"
+      ],
+      "tables_inlined": 4
+    },
+    {
+      "document_id": "ecr-revised-v02-l27",
+      "document_type": "lesson",
+      "lesson_number": 27,
+      "volume": 2,
+      "title_zh": "第二十七课 · 听广播",
+      "title_en": "Lesson 27",
+      "text_titles_zh": [
+        "听广播"
+      ],
+      "focus_sentences": [
+        "你听懂这个故事了吗？",
+        "这个问题他没回答对，回答错了。"
+      ],
+      "path": "textbook/lessons/lesson-27.md",
+      "sections": [
+        "overview",
+        "substitution_drills",
+        "text",
+        "vocabulary",
+        "notes",
+        "grammar",
+        "exercises",
+        "character_table"
+      ],
+      "source_pdf_pages": [
+        62,
+        76
+      ],
+      "source_printed_pages": [
+        52,
+        66
+      ],
+      "average_ocr_confidence": 0.9882,
+      "review_status": "ocr_unverified",
+      "review_flags": [
+        "character_table_ocr_unverified",
+        "requires_visual_context"
+      ],
+      "tables_inlined": 10
+    },
+    {
+      "document_id": "ecr-revised-v02-l28",
+      "document_type": "lesson",
+      "lesson_number": 28,
+      "volume": 2,
+      "title_zh": "第二十八课 · 北京的四季",
+      "title_en": "Lesson 28",
+      "text_titles_zh": [
+        "北京的四季"
+      ],
+      "focus_sentences": [
+        "现在是秋天了。 中秋节快要到了。"
+      ],
+      "path": "textbook/lessons/lesson-28.md",
+      "sections": [
+        "overview",
+        "substitution_drills",
+        "text",
+        "vocabulary",
+        "additional_vocabulary",
+        "notes",
+        "grammar",
+        "exercises",
+        "character_table"
+      ],
+      "source_pdf_pages": [
+        77,
+        92
+      ],
+      "source_printed_pages": [
+        67,
+        82
+      ],
+      "average_ocr_confidence": 0.9868,
+      "review_status": "ocr_unverified",
+      "review_flags": [
+        "character_table_ocr_unverified",
+        "requires_visual_context"
+      ],
+      "tables_inlined": 5
+    },
+    {
+      "document_id": "ecr-revised-v02-l29",
+      "document_type": "lesson",
+      "lesson_number": 29,
+      "volume": 2,
+      "title_zh": "第二十九课 · 去长城",
+      "title_en": "Lesson 29",
+      "text_titles_zh": [
+        "去长城"
+      ],
+      "focus_sentences": [
+        "哈利进来了。",
+        "他回宿舍去了。",
+        "他带来了一些水果。"
+      ],
+      "path": "textbook/lessons/lesson-29.md",
+      "sections": [
+        "overview",
+        "substitution_drills",
+        "text",
+        "vocabulary",
+        "additional_vocabulary",
+        "notes",
+        "grammar",
+        "exercises",
+        "character_table"
+      ],
+      "source_pdf_pages": [
+        93,
+        108
+      ],
+      "source_printed_pages": [
+        83,
+        98
+      ],
+      "average_ocr_confidence": 0.9886,
+      "review_status": "ocr_unverified",
+      "review_flags": [
+        "character_table_ocr_unverified",
+        "requires_visual_context"
+      ],
+      "tables_inlined": 7
+    },
+    {
+      "document_id": "ecr-revised-v02-l30",
+      "document_type": "lesson",
+      "lesson_number": 30,
+      "volume": 2,
+      "title_zh": "第三十课 · 一张药方（小话剧）",
+      "title_en": "Lesson 30",
+      "text_titles_zh": [
+        "一张药方（小话剧）"
+      ],
+      "focus_sentences": [
+        "这本小说很有意思，你可以看看。 来中国以后，我去过两次长城。 你介绍一下那儿的情况吧。"
+      ],
+      "path": "textbook/lessons/lesson-30.md",
+      "sections": [
+        "overview",
+        "substitution_drills",
+        "text",
+        "vocabulary",
+        "additional_vocabulary",
+        "notes",
+        "grammar",
+        "exercises",
+        "character_table"
+      ],
+      "source_pdf_pages": [
+        109,
+        125
+      ],
+      "source_printed_pages": [
+        99,
+        115
+      ],
+      "average_ocr_confidence": 0.9875,
+      "review_status": "ocr_unverified",
+      "review_flags": [
+        "character_table_ocr_unverified",
+        "requires_visual_context"
+      ],
+      "tables_inlined": 8
+    },
+    {
+      "document_id": "ecr-revised-v02-l31",
+      "document_type": "lesson",
+      "lesson_number": 31,
+      "volume": 2,
+      "title_zh": "第三十一课 · 春节",
+      "title_en": "Lesson 31",
+      "text_titles_zh": [
+        "春节"
+      ],
+      "focus_sentences": [
+        "中国朋友请我们去公园。 这些学生正在上课（呢）。"
+      ],
+      "path": "textbook/lessons/lesson-31.md",
+      "sections": [
+        "overview",
+        "substitution_drills",
+        "text",
+        "vocabulary",
+        "additional_vocabulary",
+        "notes",
+        "grammar",
+        "exercises",
+        "character_table"
+      ],
+      "source_pdf_pages": [
+        126,
+        142
+      ],
+      "source_printed_pages": [
+        116,
+        132
+      ],
+      "average_ocr_confidence": 0.9724,
+      "review_status": "ocr_unverified",
+      "review_flags": [
+        "character_table_ocr_unverified",
+        "low_page_confidence",
+        "requires_visual_context"
+      ],
+      "tables_inlined": 8
+    },
+    {
+      "document_id": "ecr-revised-v02-l32",
+      "document_type": "lesson",
+      "lesson_number": 32,
+      "volume": 2,
+      "title_zh": "第三十二课 · 访问农民家庭",
+      "title_en": "Lesson 32",
+      "text_titles_zh": [
+        "访问农民家庭"
+      ],
+      "focus_sentences": [
+        "桌子上放着收音机。",
+        "墙上挂着七、八张照片。"
+      ],
+      "path": "textbook/lessons/lesson-32.md",
+      "sections": [
+        "overview",
+        "substitution_drills",
+        "text",
+        "vocabulary",
+        "additional_vocabulary",
+        "notes",
+        "grammar",
+        "exercises",
+        "character_table"
+      ],
+      "source_pdf_pages": [
+        143,
+        159
+      ],
+      "source_printed_pages": [
+        133,
+        149
+      ],
+      "average_ocr_confidence": 0.9917,
+      "review_status": "ocr_unverified",
+      "review_flags": [
+        "character_table_ocr_unverified",
+        "requires_visual_context"
+      ],
+      "tables_inlined": 5
+    },
+    {
+      "document_id": "ecr-revised-v02-l33",
+      "document_type": "lesson",
+      "lesson_number": 33,
+      "volume": 2,
+      "title_zh": "第三十三课 · 一封信",
+      "title_en": "Lesson 33",
+      "text_titles_zh": [
+        "一封信"
+      ],
+      "focus_sentences": [
+        "我们坐飞机坐了四个小时。 他写了二十五分钟汉字。 她毕业已经两年了。"
+      ],
+      "path": "textbook/lessons/lesson-33.md",
+      "sections": [
+        "overview",
+        "substitution_drills",
+        "text",
+        "vocabulary",
+        "additional_vocabulary",
+        "notes",
+        "grammar",
+        "exercises",
+        "character_table"
+      ],
+      "source_pdf_pages": [
+        160,
+        175
+      ],
+      "source_printed_pages": [
+        150,
+        165
+      ],
+      "average_ocr_confidence": 0.9898,
+      "review_status": "ocr_unverified",
+      "review_flags": [
+        "character_table_ocr_unverified",
+        "requires_visual_context"
+      ],
+      "tables_inlined": 7
+    },
+    {
+      "document_id": "ecr-revised-v02-l34",
+      "document_type": "lesson",
+      "lesson_number": 34,
+      "volume": 2,
+      "title_zh": "第三十四课 · 遇见老朋友",
+      "title_en": "Lesson 34",
+      "text_titles_zh": [
+        "遇见老朋友"
+      ],
+      "focus_sentences": [
+        "张力是从上海来的。 他是去年毕业的。"
+      ],
+      "path": "textbook/lessons/lesson-34.md",
+      "sections": [
+        "overview",
+        "substitution_drills",
+        "text",
+        "vocabulary",
+        "additional_vocabulary",
+        "notes",
+        "grammar",
+        "exercises",
+        "character_table"
+      ],
+      "source_pdf_pages": [
+        176,
+        189
+      ],
+      "source_printed_pages": [
+        166,
+        179
+      ],
+      "average_ocr_confidence": 0.9731,
+      "review_status": "ocr_unverified",
+      "review_flags": [
+        "character_table_ocr_unverified",
+        "low_page_confidence",
+        "requires_visual_context"
+      ],
+      "tables_inlined": 6
+    },
+    {
+      "document_id": "ecr-revised-v02-l35",
+      "document_type": "lesson",
+      "lesson_number": 35,
+      "volume": 2,
+      "title_zh": "第三十五课 · 运动会",
+      "title_en": "Lesson 35",
+      "text_titles_zh": [
+        "运动会"
+      ],
+      "focus_sentences": [
+        "丁文从楼上跑下来了。 汽车开进学校来了。 他从桌子里拿出来一本书。"
+      ],
+      "path": "textbook/lessons/lesson-35.md",
+      "sections": [
+        "overview",
+        "substitution_drills",
+        "text",
+        "vocabulary",
+        "additional_vocabulary",
+        "notes",
+        "grammar",
+        "exercises",
+        "character_table"
+      ],
+      "source_pdf_pages": [
+        190,
+        203
+      ],
+      "source_printed_pages": [
+        180,
+        193
+      ],
+      "average_ocr_confidence": 0.9698,
+      "review_status": "ocr_unverified",
+      "review_flags": [
+        "character_table_ocr_unverified",
+        "low_page_confidence",
+        "requires_visual_context"
+      ],
+      "tables_inlined": 4
+    },
+    {
+      "document_id": "ecr-revised-v02-l36",
+      "document_type": "lesson",
+      "lesson_number": 36,
+      "volume": 2,
+      "title_zh": "第三十六课 · 刻舟求剑",
+      "title_en": "Lesson 36",
+      "text_titles_zh": [
+        "刻舟求剑"
+      ],
+      "focus_sentences": [
+        "他看得懂《人民日报》。 声音太小，我听不清楚。 这些练习半小时作得完作不完？"
+      ],
+      "path": "textbook/lessons/lesson-36.md",
+      "sections": [
+        "overview",
+        "substitution_drills",
+        "text",
+        "vocabulary",
+        "additional_vocabulary",
+        "notes",
+        "grammar",
+        "exercises",
+        "character_table"
+      ],
+      "source_pdf_pages": [
+        204,
+        219
+      ],
+      "source_printed_pages": [
+        194,
+        209
+      ],
+      "average_ocr_confidence": 0.9783,
+      "review_status": "ocr_unverified",
+      "review_flags": [
+        "character_table_ocr_unverified",
+        "low_page_confidence",
+        "requires_visual_context"
+      ],
+      "tables_inlined": 3
+    },
+    {
+      "document_id": "ecr-revised-v02-l37",
+      "document_type": "lesson",
+      "lesson_number": 37,
+      "volume": 2,
+      "title_zh": "第三十七课 · 互相帮助",
+      "title_en": "Lesson 37",
+      "text_titles_zh": [
+        "互相帮助"
+      ],
+      "focus_sentences": [
+        "我把那篇小说翻译完了。 你把这些东西送去。"
+      ],
+      "path": "textbook/lessons/lesson-37.md",
+      "sections": [
+        "overview",
+        "substitution_drills",
+        "text",
+        "vocabulary",
+        "additional_vocabulary",
+        "notes",
+        "grammar",
+        "exercises",
+        "character_table"
+      ],
+      "source_pdf_pages": [
+        220,
+        233
+      ],
+      "source_printed_pages": [
+        210,
+        223
+      ],
+      "average_ocr_confidence": 0.9894,
+      "review_status": "ocr_unverified",
+      "review_flags": [
+        "character_table_ocr_unverified",
+        "requires_visual_context"
+      ],
+      "tables_inlined": 5
+    },
+    {
+      "document_id": "ecr-revised-v02-l38",
+      "document_type": "lesson",
+      "lesson_number": 38,
+      "volume": 2,
+      "title_zh": "第三十八课 · 布置会场",
+      "title_en": "Lesson 38",
+      "text_titles_zh": [
+        "布置会场"
+      ],
+      "focus_sentences": [
+        "他们把桌子搬到外边去了。 你把录音机放在这儿。"
+      ],
+      "path": "textbook/lessons/lesson-38.md",
+      "sections": [
+        "overview",
+        "substitution_drills",
+        "text",
+        "vocabulary",
+        "additional_vocabulary",
+        "notes",
+        "grammar",
+        "exercises",
+        "character_table"
+      ],
+      "source_pdf_pages": [
+        234,
+        247
+      ],
+      "source_printed_pages": [
+        224,
+        237
+      ],
+      "average_ocr_confidence": 0.9917,
+      "review_status": "ocr_unverified",
+      "review_flags": [
+        "character_table_ocr_unverified",
+        "requires_visual_context"
+      ],
+      "tables_inlined": 4
+    },
+    {
+      "document_id": "ecr-revised-v02-l39",
+      "document_type": "lesson",
+      "lesson_number": 39,
+      "volume": 2,
+      "title_zh": "第三十九课 · 放假回农村",
+      "title_en": "Lesson 39",
+      "text_titles_zh": [
+        "放假回农村"
+      ],
+      "focus_sentences": [
+        "这座楼比那座楼高。 妹妹比弟弟小三岁。 他唱歌唱得比我好。"
+      ],
+      "path": "textbook/lessons/lesson-39.md",
+      "sections": [
+        "overview",
+        "substitution_drills",
+        "text",
+        "vocabulary",
+        "additional_vocabulary",
+        "notes",
+        "grammar",
+        "exercises",
+        "character_table"
+      ],
+      "source_pdf_pages": [
+        248,
+        264
+      ],
+      "source_printed_pages": [
+        238,
+        254
+      ],
+      "average_ocr_confidence": 0.979,
+      "review_status": "ocr_unverified",
+      "review_flags": [
+        "character_table_ocr_unverified",
+        "low_page_confidence",
+        "requires_visual_context"
+      ],
+      "tables_inlined": 5
+    },
+    {
+      "document_id": "ecr-revised-v02-l40",
+      "document_type": "lesson",
+      "lesson_number": 40,
+      "volume": 2,
+      "title_zh": "第四十课 · 学生数目；中国",
+      "title_en": "Lesson 40",
+      "text_titles_zh": [
+        "学生数目",
+        "中国"
+      ],
+      "focus_sentences": [
+        "那个国家的面积有五十三万平方公里。 我们学校的女生占三分之一。"
+      ],
+      "path": "textbook/lessons/lesson-40.md",
+      "sections": [
+        "overview",
+        "substitution_drills",
+        "text",
+        "vocabulary",
+        "additional_vocabulary",
+        "grammar",
+        "exercises",
+        "character_table"
+      ],
+      "source_pdf_pages": [
+        265,
+        279
+      ],
+      "source_printed_pages": [
+        255,
+        269
+      ],
+      "average_ocr_confidence": 0.9821,
+      "review_status": "ocr_unverified",
+      "review_flags": [
+        "character_table_ocr_unverified",
+        "low_page_confidence",
+        "requires_visual_context"
+      ],
+      "tables_inlined": 7
+    },
+    {
+      "document_id": "ecr-revised-v02-l41",
+      "document_type": "lesson",
+      "lesson_number": 41,
+      "volume": 2,
+      "title_zh": "第四十一课 · 田忌赛马",
+      "title_en": "Lesson 41",
+      "text_titles_zh": [
+        "田忌赛马"
+      ],
+      "focus_sentences": [
+        "这两件衣服颜色一样。 我跟他不一样高。"
+      ],
+      "path": "textbook/lessons/lesson-41.md",
+      "sections": [
+        "overview",
+        "substitution_drills",
+        "text",
+        "vocabulary",
+        "additional_vocabulary",
+        "notes",
+        "grammar",
+        "exercises",
+        "character_table"
+      ],
+      "source_pdf_pages": [
+        280,
+        293
+      ],
+      "source_printed_pages": [
+        270,
+        283
+      ],
+      "average_ocr_confidence": 0.9934,
+      "review_status": "ocr_unverified",
+      "review_flags": [
+        "character_table_ocr_unverified",
+        "requires_visual_context"
+      ],
+      "tables_inlined": 6
+    },
+    {
+      "document_id": "ecr-revised-v02-l42",
+      "document_type": "lesson",
+      "lesson_number": 42,
+      "volume": 2,
+      "title_zh": "第四十二课 · 南辕北辙",
+      "title_en": "Lesson 42",
+      "text_titles_zh": [
+        "南辕北辙"
+      ],
+      "focus_sentences": [
+        "前边走过来一个人。 宿舍里搬走了两个同学。 雨越下越大。"
+      ],
+      "path": "textbook/lessons/lesson-42.md",
+      "sections": [
+        "overview",
+        "substitution_drills",
+        "text",
+        "vocabulary",
+        "notes",
+        "grammar",
+        "exercises",
+        "character_table"
+      ],
+      "source_pdf_pages": [
+        294,
+        305
+      ],
+      "source_printed_pages": [
+        284,
+        295
+      ],
+      "average_ocr_confidence": 0.9865,
+      "review_status": "ocr_unverified",
+      "review_flags": [
+        "character_table_ocr_unverified",
+        "requires_visual_context"
+      ],
+      "tables_inlined": 3
+    },
+    {
+      "document_id": "ecr-revised-v02-l43",
+      "document_type": "lesson",
+      "lesson_number": 43,
+      "volume": 2,
+      "title_zh": "第四十三课 · 不平常的运动员",
+      "title_en": "Lesson 43",
+      "text_titles_zh": [
+        "不平常的运动员"
+      ],
+      "focus_sentences": [
+        "他的练习作完了。 我的词典让他借走了。 那个病人被大夫救活了。"
+      ],
+      "path": "textbook/lessons/lesson-43.md",
+      "sections": [
+        "overview",
+        "substitution_drills",
+        "text",
+        "vocabulary",
+        "additional_vocabulary",
+        "notes",
+        "grammar",
+        "exercises",
+        "character_table"
+      ],
+      "source_pdf_pages": [
+        306,
+        319
+      ],
+      "source_printed_pages": [
+        296,
+        309
+      ],
+      "average_ocr_confidence": 0.9932,
+      "review_status": "ocr_unverified",
+      "review_flags": [
+        "character_table_ocr_unverified",
+        "requires_visual_context"
+      ],
+      "tables_inlined": 4
+    },
+    {
+      "document_id": "ecr-revised-v02-l44",
+      "document_type": "lesson",
+      "lesson_number": 44,
+      "volume": 2,
+      "title_zh": "第四十四课 · 学会查字典",
+      "title_en": "Lesson 44",
+      "text_titles_zh": [
+        "学会查字典"
+      ],
+      "focus_sentences": [
+        "今天的会一开完，我就回家。 除了他学英语以外，我们都学汉语。"
+      ],
+      "path": "textbook/lessons/lesson-44.md",
+      "sections": [
+        "overview",
+        "substitution_drills",
+        "text",
+        "vocabulary",
+        "additional_vocabulary",
+        "grammar",
+        "exercises",
+        "character_table"
+      ],
+      "source_pdf_pages": [
+        320,
+        337
+      ],
+      "source_printed_pages": [
+        310,
+        327
+      ],
+      "average_ocr_confidence": 0.9818,
+      "review_status": "ocr_unverified",
+      "review_flags": [
+        "character_table_ocr_unverified"
+      ],
+      "tables_inlined": 5
+    }
+  ],
+  "references": [
+    {
+      "document_id": "ecr-revised-v01-pronunciation-reference",
+      "document_type": "pronunciation_reference",
+      "volume": 1,
+      "title_zh": "汉语拼音、词类简称与发音器官",
+      "title_en": "Pinyin, Part-of-Speech Abbreviations, and Organs of Speech",
+      "path": "textbook/references/v01-pronunciation-reference.md",
+      "source_pdf_pages": [
+        14,
+        16
+      ],
+      "source_printed_pages": [
+        16,
+        18
+      ],
+      "average_ocr_confidence": 0.986,
+      "review_status": "ocr_unverified",
+      "review_flags": [
+        "phonetics_ocr_unverified",
+        "requires_visual_context"
+      ],
+      "tables_inlined": 2
+    },
+    {
+      "document_id": "ecr-revised-v01-vocabulary",
+      "document_type": "vocabulary_reference",
+      "volume": 1,
+      "title_zh": "第一册词汇表",
+      "title_en": "Volume I Vocabulary",
+      "path": "textbook/references/v01-vocabulary.md",
+      "source_pdf_pages": [
+        256,
+        273
+      ],
+      "source_printed_pages": [
+        233,
+        250
+      ],
+      "average_ocr_confidence": 0.9946,
+      "review_status": "ocr_unverified",
+      "review_flags": [],
+      "tables_inlined": 36
+    },
+    {
+      "document_id": "ecr-revised-v02-grammar-review",
+      "document_type": "grammar_review",
+      "volume": 2,
+      "title_zh": "语法复习提纲",
+      "title_en": "Outline of Grammar for Review",
+      "path": "textbook/references/v02-grammar-review.md",
+      "source_pdf_pages": [
+        338,
+        349
+      ],
+      "source_printed_pages": [
+        328,
+        339
+      ],
+      "average_ocr_confidence": 0.9939,
+      "review_status": "ocr_unverified",
+      "review_flags": [],
+      "tables_inlined": 1
+    },
+    {
+      "document_id": "ecr-revised-v02-vocabulary",
+      "document_type": "vocabulary_reference",
+      "volume": 2,
+      "title_zh": "第二册词汇表",
+      "title_en": "Volume II Vocabulary",
+      "path": "textbook/references/v02-vocabulary.md",
+      "source_pdf_pages": [
+        350,
+        387
+      ],
+      "source_printed_pages": [
+        340,
+        377
+      ],
+      "average_ocr_confidence": 0.9735,
+      "review_status": "ocr_unverified",
+      "review_flags": [
+        "low_page_confidence"
+      ],
+      "tables_inlined": 55
+    }
+  ],
+  "retrieval": {
+    "chunks_path": "textbook/chunks.jsonl",
+    "enabled_chunks": 320,
+    "excluded_by_uncertainty_policy": 75,
+    "section_types": [
+      "additional_vocabulary",
+      "character_table",
+      "classroom_expressions",
+      "conversation",
+      "exercises",
+      "finals",
+      "grammar",
+      "grammar_review",
+      "initials",
+      "notes",
+      "overview",
+      "phonetics_summary",
+      "pronunciation_reference",
+      "substitution_drills",
+      "text",
+      "tones",
+      "vocabulary",
+      "vocabulary_characters",
+      "vocabulary_reference"
+    ]
+  },
+  "uncertainties_path": "textbook/uncertainties.json",
+  "corpus_version": "1.0.0"
+}

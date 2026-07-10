@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "corpus_version": "1.0.0",
+  "status": "ocr_derived_not_fully_manual_verified",
+  "default_retrieval_policy": "Use textbook/chunks.jsonl. Content listed under exclusions is intentionally absent from that file.",
+  "exclusions": [
+    {
+      "id": "character_stroke_tables",
+      "scope": "Lessons 1-44",
+      "affected_sections": 44,
+      "affected_source_pages": 108,
+      "reason": "OCR is unreliable for character components, stroke forms, and stroke-order diagrams.",
+      "handling": "Retained in canonical lesson Markdown with one warning per lesson; excluded from retrieval chunks."
+    },
+    {
+      "id": "early_phonetics",
+      "scope": "Lessons 1-8 and the pronunciation reference",
+      "affected_retrieval_chunks": 31,
+      "reason": "Tone graphs and tone diacritics showed systematic errors even on high-confidence OCR pages.",
+      "handling": "Retained in canonical Markdown; excluded from retrieval chunks pending manual review."
+    }
+  ],
+  "known_unresolved_risks": [
+    {
+      "id": "pinyin_tone_variants",
+      "severity": "medium",
+      "details": "Some remaining pinyin spellings may contain incorrect tone marks. Examples observed during audit include lǎoshí, shēntí, yìqí, diànyíng, dàshíguǎn, gāngbí, huídà, lùyǐn, pàiqiú, shuíguǒ, and huóchē. They were not automatically rewritten without page-by-page visual confirmation."
+    },
+    {
+      "id": "confidence_not_verification",
+      "severity": "general",
+      "details": "OCR confidence is model-reported confidence, not proof of textual correctness."
+    }
+  ]
+}
