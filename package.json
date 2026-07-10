@@ -1,0 +1,30 @@
+{
+  "name": "xuexi-keben-mcp",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Provider-neutral remote MCP server for the Elementary Chinese Readers tutor corpus",
+  "type": "module",
+  "scripts": {
+    "build:corpus": "node scripts/build_mcp_corpus.mjs",
+    "dev": "npm run build:corpus && wrangler dev",
+    "start": "npm run dev",
+    "typecheck": "npm run build:corpus && tsc --noEmit",
+    "check": "npm run typecheck && python3 scripts/validate_corpus.py && python3 scripts/validate_mcp_server.py",
+    "smoke": "node scripts/smoke_test_mcp.mjs",
+    "deploy:check": "npm run build:corpus && wrangler deploy --dry-run --outdir dist",
+    "deploy": "npm run build:corpus && wrangler deploy"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "1.29.0",
+    "agents": "0.17.1",
+    "zod": "4.4.3"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "4.20260629.1",
+    "typescript": "6.0.3",
+    "wrangler": "4.105.0"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
